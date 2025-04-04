@@ -29,7 +29,8 @@ public class RedisProducer implements CommandLineRunner {
     @Override
     public void run(String... args) {
 
-        // test 4
+ feat-EN-1111-from-develop2
+
         for (int i = 0; i <= 999999; i++) {
             try {
                 Thread.sleep(2000);
